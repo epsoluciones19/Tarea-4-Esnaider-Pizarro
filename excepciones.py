@@ -1,3 +1,4 @@
+# Proyecto Software FJ - Curso Programación 213023 UNAD
 """Excepciones personalizadas de Software FJ.
 
 Todas heredan de ErrorSoftwareFJ para poder capturarlas de forma
