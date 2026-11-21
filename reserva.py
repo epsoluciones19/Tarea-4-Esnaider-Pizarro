@@ -1,3 +1,4 @@
+# Proyecto Software FJ - Curso Programación 213023 UNAD
 """Clase Reserva: integra cliente, servicio, duración y estado."""
 from enum import Enum  # Para definir los estados como constantes
 
