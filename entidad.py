@@ -1,3 +1,4 @@
+# Proyecto Software FJ - Curso Programación 213023 UNAD
 """Clase abstracta que representa las entidades generales del sistema."""
 import itertools  # Para generar números consecutivos (ids)
 from abc import ABC, abstractmethod  # Herramientas para clases abstractas
