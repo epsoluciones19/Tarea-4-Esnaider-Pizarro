@@ -1,3 +1,4 @@
+# Proyecto Software FJ - Curso Programación 213023 UNAD
 """Configuración del archivo de logs (eventos y errores)."""
 import logging  # Módulo estándar de Python para registrar mensajes
 import os  # Módulo para trabajar con rutas y carpetas
